@@ -15,4 +15,4 @@
 ![image](https://github.com/FireKnight76/KBS-C-copy/blob/main/assets/159452984/332904053-81ce1093-d431-4b31-820c-064a47467512)
 
 6. open de sql script in deze repository
-7. druk op ![image](https://github.com/FireKnight76/KBS-C-copy/blob/main/assets/159452984/332903548-a062b3d8-0fee-4035-80ec-d57977b42eda)
+7. druk op ![image](https://github.com/FireKnight76/KBS-C-copy/blob/main/assets/159452984/332903548-a062b3d8-0fee-4035-80ec-d57977b42eda.png?raw=true)
